@@ -12,6 +12,7 @@ media/
 staticfiles/
 
 # Environment variables
+
 .env
 
 # Python virtual environment
